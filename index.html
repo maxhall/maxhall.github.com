@@ -2,23 +2,21 @@
 layout: default
 title: Placeholding gently
 ---
-    <div class="row">
-      <div class="six offset-by-three columns">
-          <h6><a>Title of the Piece</a></h6>
-          <p>Neque. Taciti lectus ad etiam consequat libero in nostra vel. Aliquet inceptos. Vel tellus, fusce. Dis dui. Quis nulla. Magnis lorem tincidunt fames sociosqu metus habitasse duis amet dolor Quis diam iaculis blandit hac. Molestie cubilia quisque, ad eget iaculis Conubia primis posuere aliquam risus. Elementum diam primis, dictum convallis, quisque arcu ut erat mollis metus platea tellus rutrum.</p>
-
-          <p>Urna consectetuer tempor habitasse fames pede. Velit consequat curabitur dis condimentum. Varius. A nonummy aptent at. Dapibus nonummy enim elementum imperdiet amet fringilla nibh commodo proin praesent. Hymenaeos id nascetur dolor dis placerat. Lacinia donec Sit commodo condimentum ornare tristique vulputate nullam taciti praesent. Platea nam platea lorem dapibus non. Per quisque aenean potenti integer proin aliquet varius aenean feugiat curabitur diam massa adipiscing facilisis praesent porta. A eleifend sit dictum egestas Sociis justo ac ultrices. Mi. Curabitur dolor placerat.</p>
-
-        <p>Augue rutrum morbi hendrerit, dignissim habitant amet montes class maecenas pharetra pellentesque duis potenti eleifend ridiculus lorem cras. Justo elit ultrices vivamus sollicitudin iaculis id porta nisl habitant mauris quis vel. Libero enim. Vitae praesent, magnis. Feugiat. Ullamcorper nec integer commodo. Cum. Imperdiet convallis curae; sociis porta aliquam dui nunc rhoncus. Risus. Etiam vel potenti quam sed senectus parturient enim ligula.</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="twelve columns">
-        <h6 class="tilde">~</h6>
-      </div>
-    </div>
-    <div class="row">
-      <div class="twelve columns">
-        <p class="byline">author</p>
-      </div>
-    </div>
+    {% for story in site.stories %}
+    	<div class="row">
+          <div class="six offset-by-three columns">
+              <h6><a>{{ story.title }}</a></h6>
+              {{ content }}
+          </div>
+        </div>
+        <div class="row">
+          <div class="twelve columns">
+            <h6 class="tilde">~</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="twelve columns">
+            <p class="byline">{{ story.byline }}</p>
+          </div>
+        </div>    
+	{% endfor %}
