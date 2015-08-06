@@ -2,11 +2,11 @@
 layout: default
 title: Placeholding gently
 ---
-    {% for story in site.stories %}
+    {% for post in site.posts %}
     	<div class="row">
           <div class="six offset-by-three columns">
-              <h6><a>{{ story.title }}</a></h6>
-              {{ story.content }}
+              <h6><a>{{ post.title }}</a></h6>
+              {{ post.content }}
           </div>
         </div>
         <div class="row">
@@ -16,7 +16,7 @@ title: Placeholding gently
         </div>
         <div class="row">
           <div class="twelve columns">
-            <p class="byline">{{ story.byline }}</p>
+            <p class="byline">{{ post.byline }}</p>
           </div>
         </div>    
 	{% endfor %}
