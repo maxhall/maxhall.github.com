@@ -172,7 +172,8 @@ p {
 }
 
 .byline {
-  text-align: right;
+    text-align: right;
+    font-style: italic;
 }
 
 
