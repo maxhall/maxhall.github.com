@@ -177,7 +177,9 @@ p::selection {
 }
 
 .tilde {
+  color: #555;
   text-align: center;
+  margin-bottom: 2.095rem;
 }
 
 .byline {
