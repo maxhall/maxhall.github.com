@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Another quick story for your afternoon
 byline: Slightlyover
 ---
