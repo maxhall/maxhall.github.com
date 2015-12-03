@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Max Hall | Writing
 ---
 #### The Guardian Australia
 
