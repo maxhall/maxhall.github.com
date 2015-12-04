@@ -10,6 +10,3 @@ University of Sydney "How to Uni" guide
 
 ### Motion
 The following gifs were made. I have no further comment.
-
-
-A Taste of Jazz
