@@ -11,5 +11,7 @@ University of Sydney "How to Uni" guide
 ### Motion
 The following gifs were made. I have no further comment.
 
+![Naaman Glitch](http://i.imgur.com/5l18B2B.gif)
+
 
 A Taste of Jazz
