@@ -6,6 +6,23 @@ title: Max Hall | Design
 
 Identity, print templates and weekly layout. 2016.
 
+![Honi]({{ site.baseurl }}/images/cover1.png)
+![Honi]({{ site.baseurl }}/images/cover2.png)
+![Honi]({{ site.baseurl }}/images/cover3.png)
+![Honi]({{ site.baseurl }}/images/cover4.png)
+![Honi]({{ site.baseurl }}/images/cover5.png)
+![Honi]({{ site.baseurl }}/images/news1.png)
+![Honi]({{ site.baseurl }}/images/news1.png)
+![Honi]({{ site.baseurl }}/images/news3.png)
+![Honi]({{ site.baseurl }}/images/spread1.png)
+![Honi]({{ site.baseurl }}/images/spread2.png)
+![Honi]({{ site.baseurl }}/images/spread3.png)
+![Honi]({{ site.baseurl }}/images/spread4.png)
+![Honi]({{ site.baseurl }}/images/spread5.png)
+
+## The Austrailan
+
+
 ## fEMPOWER
 
 Identity, brand assets and style guide. 2017.

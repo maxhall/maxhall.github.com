@@ -19,7 +19,7 @@ _Investigations & News:_
 - [University Rankings Fail Students](http://honisoit.com/2014/04/spanking-the-rankings/)
 - [Where are all the Ibis Babies?](http://honisoit.com/2015/08/where-are-all-the-ibis-babies/) - with Sam Langford.
 
-_Culture, Profile, Fiction & Miscellany:_
+_Culture, Profile, Miscellany:_
 
 - [Mid-tier author fakes own death to achieve spike in Amazon sales](http://honisoit.com/2015/04/mid-tier-author-fakes-own-death-to-achieve-spike-in-amazon-sales/)
 - [Koalas Suffer Chlamydia Epidemic](http://honisoit.com/2015/03/koalas-suffer-chlamydia-epidemic/)

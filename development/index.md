@@ -25,7 +25,7 @@ Selected projects:
 [This site]({{ site.baseurl }}) - A good old Jekyll static site hosted on Github pages.
 
 ### Open source
-[Interactive template](https://github.com/maxhall/interactive-template) – A simple template to get you up and running developing responsive embedded elements. Uses Pym.js for responsive iframes, Rollup for bundling, Babel to transpile Javascript and Sass for better css. This project was designed to meet the needs of Honi Soit and is heavily inspired by the Guardian's cool interactive atom template.
+[Interactive template](https://github.com/maxhall/interactive-template) – A simple template to get you up and running developing responsive embedded elements. Uses Pym.js for responsive iframes, Rollup for bundling, Babel to transpile Javascript and Sass for better css. This project was designed to meet the needs of Honi Soit, borrowing inspiration form the Guardian's cool [interactive atom template](https://github.com/guardian/interactive-atom-template).
 
 [Huntingslow](http://github.com/honisoit/huntingslow) - An open source WordPress theme that forms the backbone of the 2016 rebuild of Honisoit.com. Uses Root's Sage as a starting point and Vagrant for sane development. Should be used in conjunction with the [Huntingslow widgets](https://github.com/honisoit/huntingslow-widgets).
 
