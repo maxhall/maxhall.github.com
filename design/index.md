@@ -2,21 +2,20 @@
 layout: page
 title: Max Hall | Design
 ---
-#### Print Design
+## Honi Soit
 
-Honi Soit Indigenous Edition 2015
+Identity, print templates and weekly layout. 2016.
 
-University of Sydney "How to Uni" guide
+## fEMPOWER
 
-### Motion
-The following gifs were made. I have no further comment.
+Identity, brand assets and style guide. 2017.
+
+## The 2017 Jew Revue
+
+Identity, videos and motion graphics, photography and posters. 2017.
+
+## Old gifs
 
 ![Fee Deregulation Appropriation](http://i.imgur.com/tM6DXom.gif)
 
 ![Nuclear Window](http://i.imgur.com/lBoHDxr.gif)
-
-![Yes, the real Darth Vader](http://i.imgur.com/bsGsui7.gif)
-
-![Naaman Glitch](http://i.imgur.com/5l18B2B.gif)
-
-![Rainbow Toilet](http://i.imgur.com/MmnwOFn.gif)

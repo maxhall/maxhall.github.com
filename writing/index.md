@@ -8,6 +8,8 @@ title: Max Hall | Writing
 
 ### Honi Soit
 
+Selected pieces. A complete list of work is available [here](http://honisoit.com/author/max-hall).
+
 _Investigations & News:_
 
 - [Redfern Station continues to fail disability standards](http://honisoit.com/2015/03/lift-off/)
