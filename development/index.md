@@ -4,6 +4,8 @@ title: Max Hall | Code & Web
 ---
 ### d3.js and news development
 
+Selected projects:
+
 [University of Sydney election results 2016](http://honisoit.com/2016/10/elections-2016/) – Live full results for four concurrent ballots, all fed by a Google Sheet. Includes a live blog.
 
 ["Why candidate are you? Interactive quiz"](http://honisoit.com/2016/05/interactive-which-usu-candidate-should-i-vote-for/) – Vote Compass style interactive quiz that determines the quiz-taker's proximity to election candidates in vector space and returns their percentage similarity.
@@ -25,6 +27,8 @@ title: Max Hall | Code & Web
 ### Open source
 [Interactive template](https://github.com/maxhall/interactive-template) – A simple template to get you up and running developing responsive embedded elements. Uses Pym.js for responsive iframes, Rollup for bundling, Babel to transpile Javascript and Sass for better css. This project was designed to meet the needs of Honi Soit and is heavily inspired by the Guardian's cool interactive atom template.
 
-[Huntingslow](http://github.com/honisoit/huntingslow) - A work-in-progress open source WordPress theme intended to complete the ongoing rebuild of Honi Soit's WordPress stack. Is intended to provide a comprehensive toolset for modern digital news publishers that can be easily adopted by non-technical editors.
+[Huntingslow](http://github.com/honisoit/huntingslow) - An open source WordPress theme that forms the backbone of the 2016 rebuild of Honisoit.com. Uses Root's Sage as a starting point and Vagrant for sane development. Should be used in conjunction with the [Huntingslow widgets](https://github.com/honisoit/huntingslow-widgets).
 
-See the code on [Github](https://www.github.com/maxhall)
+[Google Sheets live blog](https://github.com/honisoit/gsheet-live-blog) – A lightweight live blog backed by Google Sheets. Used in a variety of Honi Soit project, including coverage of the [Nation Union of Students' 2016 National Conference](http://honisoit.com/2016/12/live-from-hack-schoolies-nus-national-conference/).
+
+See all the code on [Github](https://www.github.com/maxhall)
