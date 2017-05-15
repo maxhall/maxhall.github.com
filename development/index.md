@@ -8,7 +8,7 @@ Selected projects:
 
 [University of Sydney election results 2016](http://honisoit.com/2016/10/elections-2016/) – Live full results for four concurrent ballots, all fed by a Google Sheet. Includes a live blog.
 
-["Why candidate are you? Interactive quiz"](http://honisoit.com/2016/05/interactive-which-usu-candidate-should-i-vote-for/) – Vote Compass style interactive quiz that determines the quiz-taker's proximity to election candidates in vector space and returns their percentage similarity.
+["Why candidate are you? Interactive quiz"](http://honisoit.com/2017/05/which-usu-candidate-are-you/) – Vote Compass style interactive quiz that determines the quiz-taker's proximity to election candidates in vector space and returns their percentage similarity. [2016 version here](http://honisoit.com/2016/05/interactive-which-usu-candidate-should-i-vote-for/).
 
 [Union Board Preference Flow](http://bl.ocks.org/maxhall/raw/5260ec62a5776d48c702/) – Animated chart of the distribution of preferences in a student election, annotated to explain the role of affirmative action and the Single Transferrable Vote counting method.
 

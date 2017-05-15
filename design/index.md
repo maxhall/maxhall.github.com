@@ -2,7 +2,7 @@
 layout: page
 title: Max Hall | Design
 ---
-Selected design work:
+Selected design work.
 
 ## Honi Soit
 
