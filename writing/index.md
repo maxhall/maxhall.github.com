@@ -8,7 +8,7 @@ title: Max Hall | Writing
 
 ### Honi Soit
 
-Selected pieces. A complete list of work is available [here](http://honisoit.com/author/max-hall).
+Selected pieces. A complete list of more recent work is available [here](http://honisoit.com/author/max-hall).
 
 _Investigations & News:_
 
