@@ -34,6 +34,11 @@ Honi's 2016 comedy edition, designed in one week and printed in full glorious br
 
 Identity, brand assets and style guide. 2017.
 
+![fEMPOWER]({{ site.baseurl }}/images/fEMPOWER0.png)
+![fEMPOWER]({{ site.baseurl }}/images/fEMPOWER5.png)
+![fEMPOWER]({{ site.baseurl }}/images/fEMPOWER1.png)
+![fEMPOWER]({{ site.baseurl }}/images/fEMPOWER2.png)
+
 ## The 2017 Jew Revue
 
 Identity, videos and motion graphics, photography and posters. 2017.
