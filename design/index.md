@@ -42,10 +42,8 @@ Identity, brand assets and style guide. 2017.
 
 ## The 2017 Jew Revue
 
-Identity, videos and motion graphics, photography and posters. 2017.
+Identity, videos, motion graphics and posters for a Jewish-run comedy show. 2017.
 
-## Old gifs
-
-![Fee Deregulation Appropriation](http://i.imgur.com/tM6DXom.gif)
-
-![Nuclear Window](http://i.imgur.com/lBoHDxr.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1xH4U"><a href="//imgur.com/1xH4U"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![JREV]({{ site.baseurl }}/images/JREV1.png)
+![JREV]({{ site.baseurl }}/images/JREV2.png)
