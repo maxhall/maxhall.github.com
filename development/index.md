@@ -26,7 +26,7 @@ Selected projects:
 
 [fEMPOWER](http://fempowerworkshops.com) – Static site and simple sign up forms commissioned by charity that conducts workshops on gender equality with high school students.
 
-[Alexi for Senate](http://alexiforsenate.com) – Campaign site for University of Sydney senate election candidate, built in a hasty 6 hours.
+[Alexi for Senate](https://alexiforsenate.github.io/) – Campaign site for University of Sydney senate election candidate, built in a hasty 6 hours.
 
 [This site]({{ site.baseurl }}) - A good old Jekyll static site hosted on Github pages.
 
