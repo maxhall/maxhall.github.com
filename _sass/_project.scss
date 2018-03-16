@@ -4,6 +4,10 @@
   @media (min-width: $md-breakpoint) {
     margin: $spacer 0 0;
   }
+
+  img {
+    margin-bottom: $spacer;
+  }
 }
 
 .project__title {
