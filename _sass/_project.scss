@@ -1,0 +1,15 @@
+.project {
+  margin: $spacer $spacer 0;
+
+  @media (min-width: $md-breakpoint) {
+    margin: $spacer 0 0;
+  }
+}
+
+.project__title {
+  margin: 0;
+}
+
+.project__date {
+  margin-bottom: $spacer * 2;
+}

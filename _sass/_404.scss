@@ -1,0 +1,67 @@
+.fourohfour {
+  margin: $spacer $spacer 0;
+
+  @media (min-width: $md-breakpoint) {
+    margin: $spacer 0 0;
+  }
+}
+
+.fourohfour__title {
+  // text-align: center;
+  font-size: $spacer * 3;
+  line-height: $spacer * 3;
+  margin: 0 0 $spacer*5;
+}
+
+.fourohfour__BRB {
+  animation-duration: 4s;
+  animation-name: pulse;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+
+  margin: $spacer*2 auto;
+  height: $spacer * 10;
+  width: $spacer * 10;
+  background: #ffabab;
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  h1 {
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: -0.02em;
+    margin: 0;
+    font-size: $spacer * 1.5;
+    line-height: 1em;
+  }
+}
+
+@keyframes pulse {
+  from {
+    background: #ffabab;
+    border-radius: 50%;
+  }
+
+  to {
+    background: #ff8888;
+    border-radius: 60%;
+  }
+}
+@keyframes haywire {
+  from {
+  }
+
+  to {
+    transform: rotateZ(360deg) scale(2);
+  }
+}
+
+.fourohfour--THEYPUSHEDTHEBUTTON {
+  animation-duration: 2s;
+  animation-name: haywire;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}

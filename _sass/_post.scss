@@ -1,0 +1,15 @@
+.post {
+  margin: $spacer $spacer 0;
+
+  @media (min-width: $md-breakpoint) {
+    margin: $spacer 0 0;
+  }
+}
+
+.post__title {
+  margin-bottom: $spacer;
+}
+
+.post__date {
+  margin-bottom: $spacer * 2;
+}

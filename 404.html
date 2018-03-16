@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<main id="js-fourohfour-wrapper" class="fourohfour">
+  <h1 class="front__title"><a href="/">Max Hall</a></h1>
+  <h1 class="fourohfour__title">404</h1>
+  <h2>Probably not what you were looking for.</h2>
+  <h2>Careful now, don't press the big red button.</h2>
+  <div id="js-BRB" class="fourohfour__BRB">
+    <h1>Big red button</h1>
+  </div>
+  <script type="text/javascript">
+    const theBigRedButton = document.getElementById('js-BRB');
+    const pageWrapper = document.getElementById('js-fourohfour-wrapper');
+
+    for(i = 0; i < theBigRedButton.childNodes.length; i++) {
+        theButtonNode = theBigRedButton.childNodes[i];
+        if (typeof(theButtonNode.id) !== 'undefined' ) {
+          theButtonNode.addEventListener('click', function() {
+            pageWrapper.classList.toggle('fourohfour--THEYPUSHEDTHEBUTTON');
+          });
+        }
+    };
+  </script>
+</main>

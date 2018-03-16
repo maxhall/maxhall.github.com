@@ -1,0 +1,24 @@
+---
+---
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>{{ site.title}}{% if page.title %} | {{ page.title }}{% endif %}</title>
+        <meta name="description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}Writing, Code and design.{% endif %}">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta property="og:title" content="{{ site.title}}{% if page.title %} | {{ page.title }}{% endif %}">
+        <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}Writing, Code and design.{% endif %}">
+        <meta property="og:image" content="/assets/images/social-image.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400|IBM+Plex+Serif:400" rel="stylesheet">
+        <link rel="stylesheet" href="/assets/main.css">
+    </head>
+    <body>
+        <div class="content">
+          {{ content }}
+        </div>
+        {% include footer.html %}
+    </body>
+</html>
